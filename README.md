@@ -1,6 +1,6 @@
 ADF Transformation Project
 
-##Project Overview
+## Project Overview
 
 This project demonstrates how to use Azure Data Factory (ADF) Mapping Data Flows to transform transactional data into a single aggregated view per user and export the results to a CSV file.
 
@@ -10,7 +10,7 @@ Transformation: Group products purchased by each user into a single row.
 
 Output: CSV file stored in Azure Blob Storage or Data Lake.
 
-##Architecture Workflow
+## Architecture Workflow
 
 Source Dataset – Load raw data (CSV, SQL, etc.) into ADF.
 
